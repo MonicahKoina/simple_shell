@@ -2,7 +2,7 @@
 
 /**
  * builtin_env - shows the environment where the shell runs
- * @data: struct for the program's data
+ * @data: struct for the program's data.
  * Return: zero if sucess, or other number if its declared in the arguments
  */
 int builtin_env(data_of_program *data)
